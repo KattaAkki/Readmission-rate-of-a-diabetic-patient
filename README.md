@@ -34,3 +34,6 @@ While AUC provides an overview of the models' ability to separate classes, the f
 Random Forest, XGBoost, and SVM exhibit similar AUC scores, but Random Forest and XGBoost outperform SVM and the Decision Tree in recall. This suggests that Random Forest and XGBoost are better at identifying patients at risk of early readmission.
 
 The performance of the Decision Tree is notably lower, with both lower AUC and recall scores. This may indicate that the Decision Tree struggles to capture the complexities of the dataset and requires further refinement.
+
+
+![image](https://github.com/KattaAkki/Readmission-rate-of-a-diabetic-patient/assets/71118330/66936dda-af3f-4d12-8401-3ac07a85edac)
