@@ -14,6 +14,9 @@ This Jupyter Notebook serves as a comprehensive guide to building and fine-tunin
 
 1- Data Preprocessing  
 
+![image](https://github.com/KattaAkki/Readmission-rate-of-a-diabetic-patient/assets/71118330/78b15ed8-3f58-4e86-a20a-9b8f06d47919)
+
+
 2- Identifying the desired metric for our model 
 
 3- Fitting on various Machine Learning Models  
