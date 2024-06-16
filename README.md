@@ -1,4 +1,4 @@
-Business Context:  To check if a patient will be re-admitted to the hospital after getting admitted once. 
+**Business Context**:  To check if a patient will be re-admitted to the hospital after getting admitted once. 
 
 This Jupyter Notebook serves as a comprehensive guide to building and fine-tuning machine learning models for various classifiers. This notebook will explore the process of model selection, training, and hyperparameter optimization for four different classifiers: Random Forest, XGBoost, Decision Tree, and Support Vector Machine (SVM).
 
@@ -10,7 +10,7 @@ This Jupyter Notebook serves as a comprehensive guide to building and fine-tunin
 
 4. **Results and Comparative Analysis**: We compare the performance of each tuned model, highlighting their strengths and weaknesses. This section provides insights into which classifier performs best for the given problem.
 
-Process:
+**Process**:
 
 1- Data Preprocessing  
 
